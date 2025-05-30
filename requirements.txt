@@ -1,0 +1,5 @@
+- Python
+- scikit-learn
+- Gradio (for the web interface)
+- Pandas
+- numpy

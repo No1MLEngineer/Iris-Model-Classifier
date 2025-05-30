@@ -1,0 +1,21 @@
+*Iris Flower Classification*
+
+This project uses the classic Iris dataset to predict the species of an iris flower (setosa, versicolor, or virginica) based on petal and sepal measurements. It’s a great beginner-friendly classification project and often called the “Hello World” of machine learning.
+
+*Tech Stack*
+- Python
+- scikit-learn
+- Gradio (for the web interface)
+
+*Features*
+1. Predicts iris species from four numeric features.
+2. Simple web interface for easy testing.
+3. Clean, beginner-friendly code.
+
+*How to Run*
+1. Clone the repo and install requirements (`pip install -r requirements.txt`).
+2. Run the app (`python app.py` or your main script).
+3. Open the provided local URL to interact with the app.
+
+*Dataset*
+- Uses the UCI Iris dataset.
